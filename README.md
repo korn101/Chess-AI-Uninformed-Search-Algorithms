@@ -15,4 +15,3 @@ This FEN string corresponds to a board layout which can be won in 4 moves from t
 This code implements (in an attempt to explore the effectiveness of) various uninformed and "primitive" AI techniques. This includes decision trees using the concepts of:
 * Depth-first traversal ✓
 * Breadth-first traversal ✓
-* Greedy Search ✓
